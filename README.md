@@ -1,5 +1,6 @@
 # docker-nuviemaker
-docker-nuviemaker
+
+Automates most of the process to generate a (nuvie)[https://www.c64-wiki.de/wiki/Nuvie]. Source video must be sized to 320x200.
 
 ```
 $ docker run -v /scratch/tmp:/iod -ti nuviemaker zardoz.mp4
